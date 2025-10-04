@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=HV- Pin=R1-1
+Removed Pin From Net: NetName=HV+ Pin=R1-2
+Added Component: Designator=R2(SM102031004JE)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ohmite.com/assets/docs/res_slimmox.pdf?r=false"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.64mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Ohmite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM102031004JE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HV+ Pin=R1-1
+Added Pin To Net: NetName=HV- Pin=R2-2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=Schematic_Nets Member=Wire NetR1_2

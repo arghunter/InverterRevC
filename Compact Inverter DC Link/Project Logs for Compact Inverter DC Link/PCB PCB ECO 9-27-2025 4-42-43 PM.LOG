@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=HV- Pin=R1-1
+Removed Pin From Net: NetName=HV+ Pin=R1-2
+Add component: Footprint Not Found SM102031004JE
+Added Pin To Net: NetName=HV+ Pin=R1-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=Schematic_Nets Member=Wire NetR1_2

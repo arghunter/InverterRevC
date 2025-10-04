@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=HV- Pin=D?-1
+Removed Pin From Net: NetName=HV- Pin=D?-2
+Removed Pin From Net: NetName=HV+ Pin=D?-3
+Added Component: Designator=CR1(FP-95570-MFG)
+Add component (AddParameter): Name = "Average Rectified Current"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "750pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Forward Surge Current (Ifsm)"; Value = "280A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Repetitive Reverse Voltage (Vrrm)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "65853825"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reverse Current"; Value = "100µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8541100080, 8541100080"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HV- Pin=CR1-1
+Added Pin To Net: NetName=HV- Pin=CR1-2
+Added Pin To Net: NetName=HV+ Pin=CR1-3

@@ -1,0 +1,18 @@
+Change component parameters: Designator = "C2" ("C2"); Footprint = "DCP4_35.0WX50.0HX41.5L_4PIN_WIM"; UniqueID = "\HCBKJUUY" ("\HCBKJUUY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_F3125_C4AQ_M.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "25.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C4AQJLW5300M38J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C4AQJLW5300M38J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C4AQJLW5300M38J?qs=81r%252BiQLm7BQPDIKgnvCGAA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "DCP4_35.0WX50.0HX41.5L_4PIN_WIM"; UniqueID = "\UUUBVGZG" ("\UUUBVGZG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_F3125_C4AQ_M.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "25.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C4AQJLW5300M38J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C4AQJLW5300M38J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C4AQJLW5300M38J?qs=81r%252BiQLm7BQPDIKgnvCGAA%3D%3D"; VariantName = "[No Variations]"

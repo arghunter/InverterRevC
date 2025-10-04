@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=Schematic_Nets Member=NetR1_2
+Added Pin To Net: NetName=HV- Pin=R1-2
+Added Pin To Net: NetName=HV+ Pin=R2-1
