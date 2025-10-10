@@ -172,7 +172,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NTHBXIZK
 
 [Document8]
-DocumentPath=..\..\..\..\arg\Downloads\ul_AS4PDHM3-A-I\AltiumDesigner\AS4PDHM3_AI.PcbLib
+DocumentPath=..\..\..\..\arg\Downloads\ul_BYG21K-E3-TR\AltiumDesigner\BYG21K-E3TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -186,93 +186,114 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DMHIEXQS
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=..\..\..\..\arg\Downloads\ul_BYG21K-E3-TR\AltiumDesigner\BYG21K-E3TR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=..\..\..\..\arg\Downloads\ul_AS4PDHM3-A-I\AltiumDesigner\AS4PDHM3_AI.doc
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB.EXTREP
+DocumentPath=Project Outputs for Compact Inverter DC Link\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB.REP
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Board_Outline.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Board_Outline.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Design_Notes.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Drawing_1.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Design_Notes.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Drillmap_1.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Legend_Bot.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Legend_Top.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Pads_Bot.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Pads_Top.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Paste_Bot.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Paste_Top.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Profile.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_PTH_Drill.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Soldermask_Top.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Top_3D_Body.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Top_Courtyard.gbr
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Top_3D_Body.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
+DocumentPath=Project Outputs for Compact Inverter DC Link\PCB_Top_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Compact Inverter DC Link\Pick Place for PCB.csv
 DItemRevisionGUID=
 
@@ -959,14 +980,6 @@ Type148=1
 Type149=1
 Type150=1
 Type151=1
-Type152=1
-Type153=1
-Type154=1
-Type155=1
-Type156=1
-Type157=1
-Type158=1
-Type159=1
 
 [Difference Levels]
 Type1=1
@@ -1051,11 +1064,6 @@ Type79=1
 Type80=1
 Type81=1
 Type82=1
-Type83=1
-Type84=1
-Type85=1
-Type86=1
-Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1219,8 +1227,6 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
-Type162=1
-Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1263,10 +1269,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Schlib3.SchLib
+ComponentDesignItemID0=BYG21K-E3TR
+ComponentSymbolReference0=BYG21K-E3TR
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1280,6 +1292,31 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Copyright
+ParameterUpdate2=1
+ParameterName3=Datasheet
+ParameterUpdate3=1
+ParameterName4=Description
+ParameterUpdate4=1
+ParameterName5=Library Reference
+ParameterUpdate5=1
+ParameterName6=Manufacturer_Name
+ParameterUpdate6=1
+ParameterName7=Manufacturer_Part_Number
+ParameterUpdate7=1
+ParameterName8=RefDes
+ParameterUpdate8=1
+ParameterName9=Type
+ParameterUpdate9=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=DO-214AC_VIS
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
